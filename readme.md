@@ -1,6 +1,6 @@
-# Voting App
+# Vote-Karo - A voting App
 
-A Node.js application that allows users to participate in voting by casting votes for a set of candidates. The app ensures secure authentication, voting restrictions, and live vote counts. Admins have special privileges to manage the candidate list.
+Vote-Karo is a node.js application that allows users to participate in voting by casting votes for a set of candidates. The app ensures secure authentication, voting restrictions, and live vote counts. Admins have special privileges to manage the candidate list.
 
 ## Features
 
